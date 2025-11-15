@@ -59,10 +59,14 @@ Aplikasi ini juga dilengkapi dengan fitur Pustaka Penyakit yang berisi informasi
 ⸻
 
 🧑‍💻 Cara Menjalankan Server
-	1. Clone Repo ini https://github.com/nashwanfz/Projek-Akhir-KB-Mobile
+	1. Clone Repo ini "https://github.com/nashwanfz/Projek-Akhir-KB-Mobile"
+	
 	2. cd synapse-main
+	
 	3. conda env create -n <nama-env-baru> -f environment.yml
+	
 	4. conda activate <nama-env-baru>
+	
 	5. python manage.py runserver
 
 
