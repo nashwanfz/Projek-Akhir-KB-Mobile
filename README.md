@@ -59,6 +59,7 @@ Aplikasi ini juga dilengkapi dengan fitur Pustaka Penyakit yang berisi informasi
 ⸻
 
 🧑‍💻 Cara Menjalankan Server
+	
 	1. Clone Repo ini "https://github.com/nashwanfz/Projek-Akhir-KB-Mobile"
 	
 	2. cd synapse-main
